@@ -1,2 +1,0 @@
-This folder includes :
-- Schematic Diagram for SE-001 Base Expansion Board for ESP32 DevKit V1 (V1.0 Beta)
